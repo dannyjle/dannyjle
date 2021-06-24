@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dannyjle
 - 👀 I’m interested in anime, traveling, and napping
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning full-stack Application Development
+
 
 <!---
 dannyjle/dannyjle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
