@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannyjle
-- 👀 I’m interested in anime, traveling, and napping
-- 🌱 I’m currently learning full-stack Application Development
+- 👀 I’m interested in anime, traveling, napping, and most importantly learning!
+- 🌱 I’m currently learning Full-Stack Development
 
 
 <!---
