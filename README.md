@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannyjle
-- 👀 I’m interested in anime, traveling, napping, and most importantly learning!
-- 🌱 I’m currently learning Ruby
+- 👀 I’m interested in anime, traveling, napping, and most importantly learning from challenging experiences!
+- 🌱 I’m currently working on somne Ruby projects for practice
 
 
 <!---
